@@ -136,3 +136,5 @@ Reserva pós-decolagem: 294.7 kWh
 ## ✍️ Autores
 
 Projeto desenvolvido como atividade acadêmica na FIAP — Fase 1.
+Julia Guimarães (RM 572241)
+Matheus Libanio (RM 570393)
