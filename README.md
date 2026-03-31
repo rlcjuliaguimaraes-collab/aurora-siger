@@ -81,10 +81,11 @@ Os dados simulados da nave Aurora Siger utilizados no projeto:
 ---
 
 ## 🖥️ Prints da Execução
-![alt text](<print execucao 1.png>)
-![alt text](<print execucao 2.png>)
-![alt text](<print execucao 3.png>)
-![alt text](<print execucao 4.png>)
+![alt text](prints_execucaco_aurora1.png)
+![alt text](prints_execucao_aurora2.png)
+![alt text](prints_execucaco_aurora3.png)
+![alt text](prints_execucao_aurora4.png)
+
 ### Verificação de decolagem
 ```
 ✅ STATUS: PRONTO PARA DECOLAR
